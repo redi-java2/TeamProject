@@ -33,7 +33,7 @@ public class Professions {
   }
 
   private static void printBakerInfo() {
-    System.out.println("I own a ..");
+    System.out.println("I own a ...");
   }
 
   private static void printFarmerInfo() {
@@ -45,6 +45,6 @@ public class Professions {
   }
 
   private static void printLibrarianInfo() {
-    System.out.println("I love ..");
+    System.out.println("I love ...");
   }
 }
