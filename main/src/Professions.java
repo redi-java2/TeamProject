@@ -10,6 +10,7 @@ public class Professions {
     printLibrarianInfo();
     printTeacherInfo();
     printEngineerInfo();
+    printPoliceOfficerInfo();
   }
 
   private static void printDoctor() {
@@ -20,8 +21,8 @@ public class Professions {
     System.out.println("I like ...");
   }
 
-  private static void printTeacherInfo() {
-    System.out.println("I am a ..");
+  private static void printPoliceOfficerInfo() {
+    System.out.println("I am there to ..");
   }
 
   private static void printShoeMakerInfo() {
@@ -46,5 +47,9 @@ public class Professions {
 
   private static void printLibrarianInfo() {
     System.out.println("I love ...");
+  }
+
+  private static void printTeacherInfo() {
+    System.out.println("I am a ..");
   }
 }
