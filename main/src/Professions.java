@@ -19,7 +19,7 @@ public class Professions {
   }
 
   private static void printCarpenter() {
-    System.out.println("I am a Doctor and I am");
+    System.out.println("I am a Carpetner and I am");
   }
 
   private static void printEngineerInfo() {
