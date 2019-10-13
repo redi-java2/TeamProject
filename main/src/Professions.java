@@ -11,9 +11,14 @@ public class Professions {
     printTeacherInfo();
     printEngineerInfo();
     printPoliceOfficerInfo();
+    printCarpenter();
   }
 
   private static void printDoctor() {
+    System.out.println("I am a Doctor and I am");
+  }
+
+  private static void printCarpenter() {
     System.out.println("I am a Doctor and I am");
   }
 
