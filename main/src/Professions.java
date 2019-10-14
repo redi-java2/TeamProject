@@ -1,5 +1,6 @@
 public class Professions {
 
+
     public static void main(String[] args) {
         printDoctor();
         printShopOwner();
@@ -60,4 +61,5 @@ public class Professions {
     {
         System.out.println("I am a ..");
     }
-}
+
+ 
