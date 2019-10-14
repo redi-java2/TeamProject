@@ -47,7 +47,7 @@ public class Professions {
   }
 
   private static void printShopOwner() {
-    System.out.println("I have a Shop and ..");
+    System.out.println("I have a Shop and .. love the customers");
   }
 
   private static void printLibrarianInfo() {
