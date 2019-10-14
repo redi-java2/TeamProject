@@ -48,6 +48,7 @@ public class Professions {
 
   private static void printShopOwner() {
     System.out.println("I have a Shop and .. love the customers");
+    System.out.println("I want to sell as much as possible");
   }
 
   private static void printLibrarianInfo() {
