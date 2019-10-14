@@ -47,19 +47,17 @@ public class Professions {
         System.out.println("I have 3 Cows and ...");
     }
 
-    private static void printShopOwner()
-    {
+    private static void printShopOwner() {
         System.out.println("I have a Shop and ..");
     }
 
-    private static void printLibrarianInfo()
-    {
-        System.out.println("I love ...");
+    private static void printLibrarianInfo() {
+        System.out.println("I love books");
     }
 
-    private static void printTeacherInfo()
-    {
+    private static void printTeacherInfo() {
         System.out.println("I am a ..");
     }
+}
 
  
