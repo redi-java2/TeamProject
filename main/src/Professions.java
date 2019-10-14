@@ -52,7 +52,7 @@ public class Professions {
     }
 
     private static void printLibrarianInfo() {
-        System.out.println("I love ...");
+        System.out.println("I love books");
     }
 
     private static void printTeacherInfo() {
