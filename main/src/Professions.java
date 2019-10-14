@@ -43,7 +43,7 @@ public class Professions {
   }
 
   private static void printFarmerInfo() {
-    System.out.println("I have 3 Cows and ...");
+    System.out.println("I have 3 Cows and 4 acres of crops");
   }
 
   private static void printShopOwner() {
